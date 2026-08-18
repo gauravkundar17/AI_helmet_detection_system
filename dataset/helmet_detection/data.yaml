@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['0', '1', '2', 'head', 'helmet', 'others', 'person', 'safety-helmet']
+
+roboflow:
+  workspace: object-detection-tn0y3
+  project: safety-helmet-rtki3
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/object-detection-tn0y3/safety-helmet-rtki3/dataset/3

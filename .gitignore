@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# YOLO training outputs
+runs/
+
+# Model files
+*.pt
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Dataset images
+dataset/**/*.jpg
+dataset/**/*.jpeg
+dataset/**/*.png
