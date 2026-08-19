@@ -1,4 +1,4 @@
-# 🛡️ AI Helmet Detection & Hardware Safety System
+# 🛡️ AI Helmet Detection & Bike Ignition Control System
 
 An end-to-end, real-time Computer Vision and IoT safety monitoring system powered by **YOLOv8**, **OpenCV**, and **PySerial**. The system continuously detects whether individuals (riders, industrial workers, site visitors) are wearing helmets and can interface directly with hardware microcontrollers (e.g., ESP32, Arduino) to enforce safety rules—such as triggering alarms or controlling vehicle ignitions.
 
